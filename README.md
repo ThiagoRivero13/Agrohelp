@@ -1,2 +1,2 @@
 # Agrohelp
-Projeto da faculdade que visa dar suporte à agricultura familiar
+Sistema de gerenciamento básico de plantas e terrenos utilizando Java e MySQL
